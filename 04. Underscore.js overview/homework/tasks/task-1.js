@@ -12,6 +12,7 @@ Create a function that:
 
 function solve(){
   return function (students) {
+  var pesho = 'pesho';
   };
 }
 
